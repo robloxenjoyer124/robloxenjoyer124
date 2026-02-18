@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-robloxenjoyer124-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1024734174780862487)
+[![Discord](https://img.shields.io/badge/Discord-retardists-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1024734174780862487)
 [![GitHub](https://img.shields.io/badge/GitHub-robloxenjoyer124-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robloxenjoyer124)
 
 </div>
