@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=iqad&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
-### hey, i'm iqad 👾
+# hey, i'm iqad
 
 *developer · builder · tinkerer*
 
