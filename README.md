@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=iqad&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
-# hey, i'm iqad
+# hey, i'm iqad!
 
-*developer · builder · tinkerer*
+*developer · builder*
 
 <br/>
 
@@ -41,14 +41,13 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=robloxenjoyer124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robloxenjoyer124&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=robloxenjoyer124&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robloxenjoyer124&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=robloxenjoyer124&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
 
 </div>
 
