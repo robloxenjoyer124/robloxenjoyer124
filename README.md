@@ -4,7 +4,7 @@
 
 # hey, i'm iqad!
 
-*developer · builder*
+*developer i guess*
 
 <br/>
 
